@@ -1,14 +1,14 @@
 # Python Git Workflow Practice
 
-## 🎯 Project Goal
+##  Project Goal
 Master Git basic workflow (status, add, commit) with Python project
 
-## 🐍 Python Features
+##  Python Features
 - Object-oriented Git workflow simulation
 - Commit history management
 - Project version control demonstration
 
-## 📁 Project Structure
+##  Project Structure
 project/
 ├── src/
 │ └── git_simulator.py # Main Python module
@@ -18,7 +18,7 @@ project/
 ├── requirements.txt # Dependencies
 └── README.md
 
-## 🚀 Quick Start
+##  Quick Start
 ```bash
 python src/git_simulator.py
 
